@@ -1,0 +1,6 @@
+use_aug: False
+
+temperature: 0.5
+weight_contrast: 1.0
+
+batch_size: 128

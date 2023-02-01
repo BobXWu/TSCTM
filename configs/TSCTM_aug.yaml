@@ -1,0 +1,7 @@
+use_aug: True
+
+temperature: 0.07
+weight_contrast: 3.0
+weight_same_quant: 0.001
+
+batch_size: 128
