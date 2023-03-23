@@ -42,9 +42,16 @@ After training, outputs are in `./output/{dataset}/`, including topic words, top
 
 If you want to use our code, please cite as
 
-    @article{wu2022mitigating,
-        title={Mitigating Data Sparsity for Short Text Topic Modeling by Topic-Semantic Contrastive Learning},
-        author={Wu, Xiaobao and Luu, Anh Tuan and Dong, Xinshuai},
-        journal={arXiv preprint arXiv:2211.12878},
-        year={2022}
+    @inproceedings{wu-etal-2022-mitigating,
+        title = "Mitigating Data Sparsity for Short Text Topic Modeling by Topic-Semantic Contrastive Learning",
+        author = "Wu, Xiaobao  and
+          Luu, Anh Tuan  and
+          Dong, Xinshuai",
+        booktitle = "Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing",
+        month = dec,
+        year = "2022",
+        address = "Abu Dhabi, United Arab Emirates",
+        publisher = "Association for Computational Linguistics",
+        url = "https://aclanthology.org/2022.emnlp-main.176",
+        pages = "2748--2760",
     }
