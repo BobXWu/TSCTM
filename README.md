@@ -1,5 +1,7 @@
 # Code for Mitigating Data Sparsity for Short Text Topic Modeling by Topic-Semantic Contrastive Learning (EMNLP 2022)
 
+## **Check our latest topic modeling toolkit [TopMost](https://github.com/bobxwu/topmost) !**
+
 [EMNLP 2022](https://aclanthology.org/2022.emnlp-main.176)
 
 
